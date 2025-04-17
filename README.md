@@ -106,23 +106,14 @@ This repository contains the test cases for Bikroy.com, a leading online marketp
 -   **Defect Fixing & Regression Testing:** Week 5
     
 
-## Risks & Mitigation
+## Risk Mitigation Table
 
-Risk
+| **Risk**                         | **Mitigation Strategy**                                    |
+|----------------------------------|------------------------------------------------------------|
+| Unstable test environment        | Regular sync with dev team                                 |
+| Cross-browser inconsistencies    | Use automated tools like BrowserStack                      |
+| Delays in test execution         | Prioritize critical test cases (P0, P1)                    |
 
-Mitigation Strategy
-
-Unstable test environment
-
-Regular sync with dev team
-
-Cross-browser inconsistencies
-
-Use automated tools like BrowserStack
-
-Delays in test execution
-
-Prioritize critical test cases (P0, P1)
 
 ## Roles & Responsibilities
 
