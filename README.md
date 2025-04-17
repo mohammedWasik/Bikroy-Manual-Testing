@@ -63,17 +63,18 @@ This repository contains the test cases for Bikroy.com, a leading online marketp
 
 ## Test Scenarios
 -   **Signup (P0):** Validate registration, error handling, verification, and social login.
--   **Login (P0):** Test valid/invalid logins, account lockout, and social login.
--   **Logout (P0):** Ensure successful logout, session expiry, and redirection.
+-   **Login (P0):** Verify valid/invalid logins, account lockout, and social login.
+-   **Logout (P0):** Verify successful logout, session expiry, and redirection.
 -   **Forgot Password (P1):** Verify reset process via OTP/email and password validation.
 -   **Search (P0):** Check keyword search, filters, sorting, and suggestions.
 -   **Chat (P1):** Validate real-time messaging, notifications, and unread indicators.
--   **Ad (P0):** Test ad posting, editing, deleting, and image uploads.
--   **Header (P1):** Ensure navigation links and responsiveness.
+-   **Ad (P0):** Verify ad posting, editing, deleting, and image uploads.
+-   **Header (P1):** Verify navigation links and responsiveness.
 -   **Footer (P1):** Verify footer links and accessibility.
 -   **Landing Page (P1):** Check UI, responsiveness, and loading speed.
 -   **BikroyJOBS Header (P2):** Validate navigation and drop-downs.
--   **BikroyJOBS Footer (P2):** Test links and copyright details.
+-   **BikroyJOBS Footer (P2):** Validate Test links and copyright details.
+-   **Account Deleteion (P1):** Validate BikroyJOBS Account Deletion Functionality.
 
 ## Defect Management
 
